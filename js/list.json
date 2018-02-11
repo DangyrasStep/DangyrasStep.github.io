@@ -1,0 +1,65 @@
+[
+    {
+        "image":"img/port1-1.jpg",
+        "images": ["img/port1-1.jpg", "img/port1-2.jpg", "img/port1-3.jpg"],
+        "heading": "Tinklalapis daneka.lt",
+        "content": "Atlikti įvairūs darbai tinklalapiui danaka.lt. Sutvarkytas produktų galerijos atvaizdavimas, pagal norimą dizainą sukurti individualių produktų puslapiai. Pataisytos klaidos su produktų nuotraukų karusele. Įkelta daugiau produktų su jiems skirta informacija ir nuotraukomis. Taip pat pataisytos iškilusios problemos su svetaine po platformos atnaujinimo. ",
+        "link": "http://wwww.daneka.lt"
+    },
+    {
+        "image":"img/port2-1.jpg",
+        "images": ["img/port2-1.jpg", "img/port2-2.jpg", "img/port2-3.jpg"],
+        "heading": "Tinklalapis allwagers.com",
+        "content": "Atlikti įvairūs darbai tinklalapiui allwagers.com. Pagal duotą dizainą sukurti puslapiai About us, Home. Pakeistas individualių produktų atvaizdavimas priklausomai nuo pačio produkto tipo. Sutvarkytas produktų galerijos atvaizdavimas.",
+        "link": "https://allwaggers.com/"
+    },
+    {
+        "image":"img/port3-1.jpg",
+        "images": ["img/port3-1.jpg", "img/port3-2.jpg", "img/port3-3.jpg"],
+        "heading": "Tinklalapis triumphadler.lt",
+        "content": "Atlikti įvairūs darbai tinklalapiui triumphadler.lt. Visas tinklalapis sukurtas nuo pradžių Shopify platformoje. Tinkalalapio dizainas turėjo beveik visiškai atitikti jau esamą kompanijos tinklalapį sukurtą kitoms šalims. Buvo sukurti visi puslapiai su juose esančia informacija. Sukurta produktų galerija ir perdarytas filtravimo dizainas. Sukurta tinklalapio mobilioji versija. Sukelti visi produktai bei sukurti jų informacijos puslapiai. Pritaikyta navigacijos juosta.",
+        "link": "https://triumphadler.lt/"
+    },
+    {
+        "image":"img/port4-1.jpg",
+        "images": ["img/port4-1.jpg", "img/port4-2.jpg", "img/port4-3.jpg"],
+        "heading": "Tinklalapis autogarsas.lt",
+        "content": "Atlikti įvairūs darbai tinklalapiui autogarsas.lt. Produktų puslapiuose keistas dizainas, pridėtas informacijos modulis slenkantis su vartotoju. Produktų galerijoje sutvarkytas atvaizdavimas, filtravimas, pridėti \"bages\" prie produktų nuotraukų. Kelis kartus pilnai pakeista navigacijos juosta, vartotojo krepšelio atvaizdavimas.",
+        "link": "https://www.autogarsas.lt"
+    },
+    {
+        "image":"img/port5-1.jpg",
+        "images": ["img/port5-1.jpg", "img/port5-2.jpg", "img/port5-3.jpg"],
+        "heading": "Atlikti įvairūs darbai tinklalapiui griliai.lt. Šis tinkalalpis buvo, kuriamas tuo pačiu metu kaip ir autogarsas.lt taip pat buvo naudojama vienoda tema ant, kuriois buvo dirbama todėl atlikti darbai yra beveik identiški. Produktų puslapiuose keistas dizainas, pridėtas informacijos modulis slenkantis su vartotoju. Produktų galerijoje sutvarkytas atvaizdavimas, filtravimas, pridėti \"bages\" prie produktų nuotraukų. Kelis kartus pilnai pakeista navigacijos juosta, vartotojo krepšelio atvaizdavimas.",
+        "content": "Atlikti įvairūs darbai tinklalapiui danake.lt",
+        "link": "https://www.griliai.lt/"
+    },
+    {
+        "image":"img/port6-1.jpg",
+        "images": ["img/port6-1.jpg", "img/port6-2.jpg", "img/port6-3.jpg"],
+        "heading": "Tinklalapis fksuduva.96.lt",
+        "content": "Tinklalapis sukurtas kaip bakalaurinio užbaigimo darbas. Viskas sukurta individualiai t.y. dizainas, front-end ir back-end. Buvo naudota html, css, javascript, php, mysql ir keletas kitų javascript bibliotekų. ",
+        "link": "http://fksuduva.96.lt"
+    },
+    {
+        "image":"img/port7-1.jpg",
+        "images": ["img/port7-1.jpg", "img/port7-2.jpg", "img/port7-3.jpg"],
+        "heading": "Portfolio",
+        "content": "Partfolio naudotas prieš sukuriant dabartinį.",
+        "link": "https://dangyrasstepanavicius.github.io/"
+    },
+    {
+        "image":"img/port8-1.jpg",
+        "images": ["img/port8-1.jpg", "img/port8-2.jpg", "img/port8-3.jpg"],
+        "heading": "Tinklalapis wrappshop.eu",
+        "content": "Atlikti įvairūs darbai tinklalapiui wrappshop.eu. Atlikti tokie darbai kaip: navigacijos tvarkymas, produktų atvaizdavimo klaidos, papildomos informacijos pridėjimas prie produktų.",
+        "link": "https://www.wrappshop.eu/"
+    },
+    {
+        "image":"img/logo2.jpg",
+        "images": ["img/port1-1.jpg", "img/port1-2.jpg", "img/port1-3.jpg"],
+        "heading": "Logotipas",
+        "content": "Logotipas sukurtas",
+        "link": ""
+    }
+]
